@@ -5,7 +5,7 @@ public class Developer extends Employee {
     void work() {
         System.out.println("Developer writing code");
     }
-    void code(){
-        System.out.println("Developer write code");
-    }
+
+
+
 }
